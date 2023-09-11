@@ -1,3 +1,5 @@
 venv
 .idea
 .csv
+.ipynb_checkpoints
+cufile.log
