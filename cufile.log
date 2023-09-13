@@ -43,3 +43,6 @@
  11-09-2023 18:23:41:30 [pid=20325 tid=20325] NOTICE  cufio-drv:705 running in compatible mode
  11-09-2023 18:23:41:33 [pid=20325 tid=20325] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
  11-09-2023 18:23:43:529 [pid=20325 tid=20325] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 13-09-2023 13:02:06:49 [pid=213 tid=213] NOTICE  cufio-drv:705 running in compatible mode
+ 13-09-2023 13:02:06:49 [pid=213 tid=213] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 13-09-2023 13:02:06:166 [pid=213 tid=213] ERROR  cufio-topo-udev:431 no device entries present in platform topology
